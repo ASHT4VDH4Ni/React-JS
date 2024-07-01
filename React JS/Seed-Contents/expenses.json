@@ -1,0 +1,46 @@
+{
+  "expenses": [
+    {
+      "expenseDescription": "Grocery Expenses",
+      "payeeName": "Payal",
+      "price": 2384,
+      "date": "2023-02-26T00:00:00.000Z",
+      "id": "1"
+    },
+    {
+      "expenseDescription": "Bike Maintainence Expenses",
+      "payeeName": "Prasad",
+      "price": 3500,
+      "date": "2023-02-26T00:00:00.000Z",
+      "id": "2"
+    },
+    {
+      "expenseDescription": "Electricity Bill - June Month",
+      "payeeName": "Payal",
+      "price": 2200,
+      "date": "2023-02-26T00:00:00.000Z",
+      "id": "3"
+    },
+    {
+      "expenseDescription": "Dinner Expenses - Friday Night",
+      "payeeName": "Prasad",
+      "price": 1750,
+      "date": "2023-02-26T00:00:00.000Z",
+      "id": "4"
+    },
+    {
+      "expenseDescription": "Saturday - Movie Night",
+      "payeeName": "Prasad",
+      "price": 920,
+      "date": "2023-02-26T00:00:00.000Z",
+      "id": "5"
+    },
+    {
+      "id": "a27a",
+      "expenseDescription": "Chocolates",
+      "payeeName": "Payal",
+      "price": 1300,
+      "date": "2024-07-25T00:00:00.000Z"
+    }
+  ]
+}
